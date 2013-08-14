@@ -1,2 +1,4 @@
-HELLO~:WQ
+<?
+echo 'hello!';
 
+?>
