@@ -1,5 +1,9 @@
 <?
-echo 'hello!';
-    
-    
+    echo 'hello!';
+echo '4 spaces';
+    echo 'tab';
+
+
+
+
 ?>
